@@ -1,4 +1,4 @@
-# KISS-ICP ROS wrappers
+# KISS-ICP ROS wrappers 3.0
 
 This node is just an application example on how to use the KISS-ICP C++ API. It's still considered
 work in progress and we are very happy to receive any contribution from the comunity 👼
